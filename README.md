@@ -9,6 +9,11 @@
     <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
+About Me
+👋 Hi there! I'm a passionate Data Analyst with a strong drive for continuous improvement and a creative approach to problem-solving. I thrive in collaborative environments and enjoy working as part of a team to achieve shared goals.
+<br>
+
+🌱 Lifelong Learner: I'm currently focused on expanding my web development skills and continuously seeking new knowledge to stay ahead in the tech field.
 
 <div id="user-content-toc">
   <ul align="center">
@@ -57,7 +62,7 @@
 </details>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/william-ga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/c-cardona-c"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:carlos22ant@gmail.com?subject=Hi%20Carlos%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/></a>
 </div>
 
