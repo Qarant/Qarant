@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on [Complete Data analysis Project]()  
   
 
-- 🌱 I’m currently learning Project Management processes and AI tools  
+- 🌱 I’m currently learning Project Management processes and AI tools, Non-relational Databases  
   
 
 - ⚡ Fun fact: I feel like a detective when i work on data analytics   
