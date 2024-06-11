@@ -9,62 +9,65 @@
     <summary><h2 style="display: inline-block">About Me</h2></summary>
   </ul>
 </div>
-About Me
-👋 Hi there! I'm a passionate Data Analyst with a strong drive for continuous improvement and a creative approach to problem-solving. I thrive in collaborative environments and enjoy working as part of a team to achieve shared goals.
-<br>
+<div align="center">I'm a passionate Data Analyst with a strong drive for continuous improvement and a creative approach to problem-solving. I thrive in collaborative environments and enjoy working as part of a team to achieve shared goals.
+</div>  
+  
 
-🌱 Lifelong Learner: I'm currently focused on expanding my web development skills and continuously seeking new knowledge to stay ahead in the tech field.
+- 🔭 I’m currently working on [Complete Data analysis Project]()  
+  
+
+- 🌱 I’m currently learning Project Management processes and AI tools  
+  
+
+- ⚡ Fun fact: I feel like a detective when i work on data analytics   
+  
+
+<br/>  
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
+<div align="center">
+  <table><tr><td valign="top" width="33%">
+  
+  ### Programming Lenguages  
+  <div align="center">  
+    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+    <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
+  </div>  
 
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img title ='Python' width="30px" src="https://skillicons.dev/icons?i=py" />
-       <img title ='R' width="30px" src="https://skillicons.dev/icons?i=r" />
-    </kbd>
-    <kbd>
-      <kbd>Database</kbd>
-      <br>
-      <br>
-      <img title ='MySQL' width="30px" src="https://skillicons.dev/icons?i=mysql"/>
-      <img title ='MongoDB' width="30px" src="https://skillicons.dev/icons?i=mongodb"/>
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Networking</kbd>
-      <br>
-      <br>
-      <img title ='LinkedIn' width="30px" src="https://skillicons.dev/icons?i=linkedin" />
-      <img title ='LinkedIn' width="30px" src="https://skillicons.dev/icons?i=git" />
-    </kbd>
-    <kbd>
-      <kbd>Tools</kbd>
-      <br>
-      <br>
-      <img width="30px" src="https://skillicons.dev/icons?i=anaconda" />
-      <img width="30px" src="https://skillicons.dev/icons?i=vscode" />
-      <img width="30px" src="https://skillicons.dev/icons?i=pycharm" />
-      <img width="30px" src="https://skillicons.dev/icons?i=html" />
-      <img width="30px" src="https://skillicons.dev/icons?i=css" />
-      <img width="30px" src="https://skillicons.dev/icons?i=sublime" />
-  </kbd>
-  </p>
-</div>
-</details>
 
-<div align=center>
-  <a href="www.linkedin.com/in/c-cardona-c"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:carlos22ant@gmail.com?subject=Hi%20Carlos%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/></a>
+</td><td valign="top" width="33%">
+
+### Databases  
+  <div align="center">  
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
+    <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
+  </div>
+
+### Other Tools  
+  <div align="center">  
+    <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
+    </a>  
+    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+    <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+  </div>
+</td><td valign="top" width="33%">
+
+### Visualization Tools  
+  <div align="center">  
+    <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
+    <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="75" /></a>  
+    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
+  </div>
+
+</td></tr></table>  
 </div>
+<br/>  
 
 <!--
 **Qarant/Qarant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
