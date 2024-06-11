@@ -56,6 +56,11 @@
 </div>
 </details>
 
+<div align=center>
+  <a href="https://www.linkedin.com/in/william-ga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="mailto:carlos22ant@gmail.com?subject=Hi%20Carlos%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label="/></a>
+</div>
+
 <!--
 **Qarant/Qarant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
