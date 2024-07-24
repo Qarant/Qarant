@@ -13,7 +13,7 @@
 </div>  
   
 
-- 🔭 I’m currently working on [Complete Data analysis Project](https://github.com/Qarant/Data-Analysis---Consulting-Company)  
+- 🔭 I’m currently working on [Analysis-of-Mexican-Salaries-Over-Time](https://github.com/Qarant/Analysis-of-Mexican-Salaries-Over-Time)  
   
 
 - 🌱 I’m currently learning Project Management processes and AI tools, Non-relational Databases  
