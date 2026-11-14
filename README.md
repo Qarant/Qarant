@@ -1,4 +1,4 @@
-![Banner Carlos](GitHub-header-image.jpg)
+![Banner Carlos](github-header-image.jpg)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
